@@ -1,0 +1,11 @@
+.heading{
+    width: 900px;
+    height: 90px;
+font-size: 30px;
+background-color: #Ffe5b4;
+font-family: 'Lemon', serif;
+color: white;
+}
+body{
+    background-color: peachpuff;
+}
